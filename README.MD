@@ -24,3 +24,6 @@ the server will accept a get request in /api and make a console log of the data 
 
    server url:   http://ip-address/api  server port : 80
    note * change the "ip-address" with the ip of the computer or server
+   
+**Sample data received:**
+![screen shoot of console log](https://github.com/140053/arduino-db/blob/main/docs/img1.png)
