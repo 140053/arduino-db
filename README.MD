@@ -15,3 +15,12 @@ then cd to the clone repo:
 then type in 
 
     npm i 
+
+# Usage:
+
+the server will accept a get request in /api and make a console log of the data sent. to start the server type in a command:
+
+    npm run test
+
+   server url:   http://ip-address/api  server port : 80
+   note * change the "ip-address" with the ip of the computer or server
